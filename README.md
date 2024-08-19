@@ -1,4 +1,4 @@
-![Banner](https://ibb.co/5h4N7jF)
+![Banner](https://github.com/askarov-gadzhi/askarov-gadzhi/blob/main/1ef59a68-e1f8-6bd0-f3f4-93bdd81070ee.png)
 
 # Привет! 👋
 Я Гаджи, человек, изучающий программирование и Computer Science. Также, я веду YouTube-канал. Добро пожаловать в мой GitHub профиль!
